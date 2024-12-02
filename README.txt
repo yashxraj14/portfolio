@@ -1,24 +1,5 @@
-Proven Business Analyst | Ready to combine decision making and critical thinking skills in business processing environments.
+As a passionate and results-driven Business Analyst with over 3 years of experience, I specialize in transforming complex data into actionable insights that drive strategic decisions and operational excellence. At Reliance, I have demonstrated my ability to analyze historical data, automate processes, and create predictive tools using SQL, BI platforms, VBA, and statistical models. My contributions have not only enhanced workforce productivity but also optimized service delivery, earning me recognition such as the 'Comfort Ambassador Award' for identifying and implementing innovative solutions. 
 
-Proven talent for aligning business strategy and objectives with established modeling development and visualization management paradigms to achieve maximum analytical results with minimal obstacles.
+I thrive at the intersection of data, technology, and strategy. By collaborating with cross-functional teams and leveraging tools like weather APIs and statistical packages, I’ve developed impactful dashboards, improved KPIs, and created tailored business cases that align with organizational goals. My leadership extends beyond analytics—I've successfully led initiatives to boost employee engagement and foster high-performing teams, contributing to a 65% improvement in Social Capital at Brock Solutions. 
 
-I graduated from Conestoga College majored in Information Technology Business Analysis to expand my fundamentals and skills in Data Analysis and Business Intelligence. Before this, I worked with H&M and E-Cafe Ventures for 3 years. I worked with multiple teams to extract data-driven insights using Big Data tools and created automated dashboards using Tableau to track customer segments and different credit card performance. 
-
-Dedicated professional with excellent interpersonal communication and team management skills. I have expertise in revenue enhancement, process enhancement and information technology. I am a disciplined well-organized critical thinker driven to use BI technologies to draw insights and enhance business performance.
-
-Technical Skills:
-• Programming: SQL, SAS, Python, R, Hive, C, Java, PHP, HTML, CSS, JavaScript, MATLAB, Linux
-• Tools: MS Excel, Hadoop, Tableau, SAS Enterprise Miner, Power BI, QlikView, MS Project, JIRA
-• Database Systems: MS SQL Server, MY SQL, Oracle 11g, MongoDB
-• Software Skills: Excel (Pivot, Vlookup, etc), Alteryx, RStudio, SPSS Modeler, SPSS statistics, Jupyter Notebook, Anaconda
-• Machine learning algorithms: Linear Regression, Logistic Regression, Classification, Clustering, Decision Trees, Random Forest,
-KNN, Support Vector Machines, Recommender Systems, Gradient Boosting, Ensemble methods
-
-Organizations:
-IIBA - International Institute of Business Analysis
-
-Certification:
-Tableau Desktop specialist- Tableau
-Tableau Analyst- Tableau
-PowerBI Essentials - Power BI
-Python for Data Science 
+I am also adept at designing data systems, such as developing ERDs and migrating databases from Microsoft Access to SQL Server, and proposing solutions like RFPs for organizations looking to enhance their digital presence. Whether driving business transformations or giving back through volunteering initiatives, my goal is to deliver excellence and make a meaningful impact. 
